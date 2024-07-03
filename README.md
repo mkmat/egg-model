@@ -6,7 +6,7 @@ M. Kröger, P. Ilg<br>
 Combined dynamics of magnetization and particle rotation of a suspended superparamagnetic particle in the presence of an orienting field: Semi-analytical and numerical solution<br>
 Math. Mod. Meth. Appl. Sci. 32 (2022) 1349-1383<br>
 
-    @article{MKroger2022-32,
+    @article{egg-model,
        author = {M. Kr\"oger and P. Ilg},
        title = {Combined dynamics of magnetization and particle rotation of a suspended superparamagnetic particle in the presence of an orienting field: Semi-analytical and numerical solution},
        journal = {Math. Mod. Meth. Appl. Sci.},
