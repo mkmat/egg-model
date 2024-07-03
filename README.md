@@ -18,7 +18,7 @@ Math. Mod. Meth. Appl. Sci. 32 (2022) 1349-1383<br>
 
 ## Abstract
 
-The magnetization dynamics of suspended superparamagnetic particles is governed byinternal N .eel relaxation as well as Brownian diffusion of the whole particle. We herepresent semi-analytical and numerical solutions of the kinetic equation, describing thecombined rotation of particle orientation and magnetization. The solutions are based onan expansion of the joint probability density into a complete set of bipolar harmonics,leading to a coupled set of ordinary differential equations for the expansion coefficients.Extending previous works, we discuss the spectrum of relaxation times as well as con-vergence and limits of applicability of the method. Furthermore, we also provide thenumerical scheme in electronic form, so that readers can readily implement and use themodel.
+The magnetization dynamics of suspended superparamagnetic particles is governed byinternal N .eel relaxation as well as Brownian diffusion of the whole particle. We herepresent semi-analytical and numerical solutions of the kinetic equation, describing thecombined rotation of particle orientation and magnetization. The solutions are based onan expansion of the joint probability density into a complete set of bipolar harmonics,leading to a coupled set of ordinary differential equations for the expansion coefficients.Extending previous works, we discuss the spectrum of relaxation times as well as con-vergence and limits of applicability of the method. Furthermore, we also provide thenumerical scheme in electronic form, so that readers can readily implement and use the model.
 
 ## Files contained in this repository     
 
