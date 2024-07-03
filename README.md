@@ -12,7 +12,8 @@ Math. Mod. Meth. Appl. Sci. 32 (2022) 1349-1383<br>
        journal = {Math. Mod. Meth. Appl. Sci.},
        volume = {32},
        pages = {1349-1383},
-       year = {2022}
+       year = {2022},
+       doi = {10.1142/S0218202522500300}
       }
 
 ## Abstract
