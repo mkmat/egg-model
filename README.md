@@ -25,7 +25,7 @@ The magnetization dynamics of suspended superparamagnetic particles is governed 
 Each folder contains sufficient information to immediately construct matrix ${\bf A}$ and vector ${\bf d}$,
 that enter the equation of change for the vector of moments ${\bf b}$
 
-$$\frac{db}{dt} = A\cdot b - d$$
+$$\frac{db}{dt} = -A\cdot b - d$$
 
 for any choice of parameters $\tau_B$, $\tau_D$, $h$, and $\kappa$. The user can choose
 between different orders, files within ORDER-*n* result in a $[I(n)-1]\times [I(n)-1]$ matrix $A$. 
